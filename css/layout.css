@@ -24,4 +24,36 @@
 
 /* Positioning Classes */
 
+.featured-wrapper{
+  display: block;
+  float: left;
+}
 
+.one-col{
+  width: 32%;
+  margin: 20px 0px 15px 15px;
+}
+
+.two-col{
+width: 64%;
+margin: 20px 15px 15px 0px;
+}
+
+.deal-wrapper{
+  float:left;
+  width: 32%;
+}
+
+.deal-wrapper{
+  margin: 0px 15px 0px 0px;
+}
+
+#last-deal{
+  margin-right: 0px;
+}
+
+.border_right{
+  float: left;
+  width: 32%;
+  padding: 10px;
+}
